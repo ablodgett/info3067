@@ -1,0 +1,168 @@
+[
+    {
+        "ID": "aa",
+        "BRAND": "NIKE",
+        "productname": "Air Force 1",
+        "graphicname": "AF1.jpg",
+        "costprice": "48.00",
+        "msrp": "145.99",
+        "qtyonhand": "4",
+        "qtyonbackorder": "4",
+        "description": "Never mistaken, the Nike Air Force 1 LV8 is the hardwood classic that redefined basketball shoes and sneaker culture forever. "
+    },
+    {
+        "ID": "ab",
+        "BRAND": "NIKE",
+        "productname": "Blazer Mid",
+        "graphicname": "BM.jpg",
+        "costprice": "45.00",
+        "msrp": "134.99",
+        "qtyonhand": "5",
+        "qtyonbackorder": "2",
+        "description": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years."
+    },
+    {
+        "ID": "ac",
+        "BRAND": "NIKE",
+        "productname": "Blazer Low",
+        "graphicname": "BL.jpg",
+        "costprice": "35.00",
+        "msrp": "124.99",
+        "qtyonhand": "5",
+        "qtyonbackorder": "2",
+        "description": "Inspired by heritage basketball looks, the Nike Blazer Low Leather features leather and suede on the upper and a low-cut collar for comfort and durability. "
+    },
+    {
+        "ID": "ad",
+        "BRAND": "NIKE",
+        "productname": "Court Vintage",
+        "graphicname": "CV.jpg",
+        "costprice": "25.00",
+        "msrp": "95.99",
+        "qtyonhand": "2",
+        "qtyonbackorder": "2",
+        "description": "The Nike Court Vintage Premium embodies '80s tennis at its best: laid-back and stylish. The smooth leather on the upper and suede touches collaborate for an authentic look and feel."
+    },
+    {
+        "ID": "ae",
+        "BRAND": "NIKE",
+        "productname": "Air Max",
+        "graphicname": "AM.jpg",
+        "costprice": "45.00",
+        "msrp": "225.99",
+        "qtyonhand": "5",
+        "qtyonbackorder": "5",
+        "description": "Give your attitude an edge in the Nike Air Max Plus, a Tuned Air experience that's been delivering comfort and street cred since '98."
+    },
+    {
+        "ID": "ba",
+        "BRAND": "ADIDAS",
+        "productname": "Stan Smith",
+        "graphicname": "SS.jpg",
+        "costprice": "25.00",
+        "msrp": "95.99",
+        "qtyonhand": "5",
+        "qtyonbackorder": "5",
+        "description": "Roll with the classic. Back in the day, Stan Smith won big on the tennis court. Slide into the adidas shoe worthy of his name and you'll win big on the streets."
+    },
+    {
+        "ID": "bb",
+        "BRAND": "ADIDAS",
+        "productname": "Continental 80",
+        "graphicname": "C80.jpg",
+        "costprice": "25.00",
+        "msrp": "120.99",
+        "qtyonhand": "4",
+        "qtyonbackorder": "2",
+        "description": "Revel in the nostalgia. These adidas Continental 80 Shoes capture all the retro vibes of the classic '80s leather trainers."
+    },
+    {
+        "ID": "bc",
+        "BRAND": "ADIDAS",
+        "productname": "Pro Model",
+        "graphicname": "PM.jpg",
+        "costprice": "25.00",
+        "msrp": "120.99",
+        "qtyonhand": "6",
+        "qtyonbackorder": "2",
+        "description": "More, please. These adidas Pro Model Shoes have all the details you love about the lower version but in a mid-cut silhouette for extra support."
+    },
+    {
+        "ID": "bd",
+        "BRAND": "ADIDAS",
+        "productname": "Ultraboost",
+        "graphicname": "UB.jpg",
+        "costprice": "35.00",
+        "msrp": "250.99",
+        "qtyonhand": "4",
+        "qtyonbackorder": "2",
+        "description": "Elevate your running experience. These updated adidas Ultraboost shoes deliver heel-to-toe responsive cushioning for the highest level of energy return as you run."
+    },
+    {
+        "ID": "be",
+        "BRAND": "ADIDAS",
+        "productname": "Superstar",
+        "graphicname": "SU.jpg",
+        "costprice": "25.00",
+        "msrp": "100.99",
+        "qtyonhand": "6",
+        "qtyonbackorder": "1",
+        "description": "Originally made for basketball courts in the '70s. Celebrated by hip hop royalty in the '80s. The adidas Superstar shoe is now a lifestyle staple for streetwear enthusiasts."
+    },
+    {
+        "ID": "ca",
+        "BRAND": "PUMA",
+        "productname": "Astro Cup",
+        "graphicname": "AC.jpg",
+        "costprice": "25.00",
+        "msrp": "90.99",
+        "qtyonhand": "6",
+        "qtyonbackorder": "2",
+        "description": "The Astro Cup is a new soccer-inspired court style trainer. With its soft suede upper and T-toe vamp design, the Astro creates a classic, timeless look."
+    },
+    {
+        "ID": "cb",
+        "BRAND": "PUMA",
+        "productname": "Suede Classic",
+        "graphicname": "SC.jpg",
+        "costprice": "25.00",
+        "msrp": "100.99",
+        "qtyonhand": "5",
+        "qtyonbackorder": "1",
+        "description": "The Suede has been kicking around for a long time. From ‘60s basketball warm-up shoe to ‘90s hip hop legend, it’s been worn by greats across generations."
+    },
+    {
+        "ID": "cc",
+        "BRAND": "PUMA",
+        "productname": "Carson2",
+        "graphicname": "C2.jpg",
+        "costprice": "15.00",
+        "msrp": "59.99",
+        "qtyonhand": "6",
+        "qtyonbackorder": "1",
+        "description": "Style meets performance in the state-of-the-art Carson 2 New Core Men’s Running Shoes. This training shoe is a sleek modern update to the classic Carson design."
+    },
+    {
+        "ID": "cd",
+        "BRAND": "PUMA",
+        "productname": "RS-X",
+        "graphicname": "RSX.jpg",
+        "costprice": "25.00",
+        "msrp": "140.99",
+        "qtyonhand": "4",
+        "qtyonbackorder": "1",
+        "description": "X marks extreme. Exaggerated. Remixed. From the ‘80s PUMA Archives, the original Running System (RS) was an innovative cushioning technology revolutionary for its time."
+    },
+    {
+        "ID": "ce",
+        "BRAND": "PUMA",
+        "productname": "Cell Alien OG",
+        "graphicname": "CAOG.jpg",
+        "costprice": "25.00",
+        "msrp": "130.99",
+        "qtyonhand": "5",
+        "qtyonbackorder": "5",
+        "description": "CELL Alien just touched down from space. First created as a running shoe in 1998, this icon returns to today’s world with its original CELL cushioning technology."
+    }
+    
+]
